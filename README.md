@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="md-omar-kaushru-3b7aa1102"><a class="LI-simple-link" href='https://bd.linkedin.com/in/md-omar-kaushru-3b7aa1102?trk=profile-badge'>Md. Omar Kaushru</a></div>
+
 <!--
 **omarKaushru/omarKaushru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
